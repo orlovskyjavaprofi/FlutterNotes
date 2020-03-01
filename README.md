@@ -1,6 +1,7 @@
 # FlutterNotes
 
 Here are my Flutter notes just for quick view
+https://stackoverflow.com/questions/2169294/how-to-add-manifest-permission-to-an-application
 
 https://stackoverflow.com/questions/42864913/how-do-i-initialize-a-final-class-property-in-a-constructor
 
