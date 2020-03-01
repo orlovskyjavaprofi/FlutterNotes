@@ -2,6 +2,8 @@
 
 Here are my Flutter notes just for quick view
 
+https://stackoverflow.com/questions/25176594/android-sdk-location
+
 https://stackoverflow.com/questions/3997748/how-can-i-create-a-keystore
 
 https://developer.android.com/studio/command-line/bundletool#generate_apks
