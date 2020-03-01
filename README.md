@@ -1,6 +1,8 @@
 # FlutterNotes
 
 Here are my Flutter notes just for quick view
+https://developer.android.com/studio/command-line/bundletool#generate_apks
+
 https://flutter.dev/docs/deployment/android
 
 https://stackoverflow.com/questions/2169294/how-to-add-manifest-permission-to-an-application
