@@ -2,6 +2,8 @@
 
 Here are my Flutter notes just for quick view
 
+https://medium.com/@psyanite/how-to-sign-and-release-your-flutter-app-ed5e9531c2ac
+
 https://stackoverflow.com/questions/50419286/install-android-app-bundle-on-device
 
 https://stackoverflow.com/questions/25176594/android-sdk-location
